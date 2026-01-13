@@ -24,8 +24,13 @@ int main() {
         case 1: task01(); break;
         case 2: task02(); break;
         case 3: task03(); break;
-        case 4: case 5: case 6: case 7: case 8:
-        case 9: case 10: case 11: case 12:
+		case 4: task04(); break;
+		case 5: task05(); break;
+        case 6: task06(); break;
+		case 7: task07(); break;
+		case 8: task08(); break;
+		case 9: task09(); break;
+		case 10: task10(); break;
             printf("%d not task\n", n);
             break;
         default:

@@ -132,6 +132,12 @@
     <ClCompile Include="task02.c" />
     <ClCompile Include="task03.c" />
     <ClCompile Include="task04.c" />
+    <ClCompile Include="task05.c" />
+    <ClCompile Include="task06.c" />
+    <ClCompile Include="task07.c" />
+    <ClCompile Include="task08.c" />
+    <ClCompile Include="task09.c" />
+    <ClCompile Include="task10.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="tasks.h" />

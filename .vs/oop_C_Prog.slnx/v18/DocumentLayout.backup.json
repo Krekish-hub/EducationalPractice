@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:task03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:task02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:task04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:task08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:task06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:task01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\tasks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:tasks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E006296-837E-48DA-9FB7-AD12428E1198}|oop_C_Prog.vcxproj|solutionrelative:start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "task01.c",
-              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task01.c",
-              "RelativeDocumentMoniker": "task01.c",
-              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task01.c",
-              "RelativeToolTip": "task01.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-29T05:03:56.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "tasks.h",
-              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\tasks.h",
-              "RelativeDocumentMoniker": "tasks.h",
-              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\tasks.h",
-              "RelativeToolTip": "tasks.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-29T04:52:38.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "task03.c",
               "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task03.c",
               "RelativeDocumentMoniker": "task03.c",
               "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task03.c",
               "RelativeToolTip": "task03.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-29T04:28:10.026Z",
+              "WhenOpened": "2025-12-29T12:10:53.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "task04.c",
+              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task04.c",
+              "RelativeDocumentMoniker": "task04.c",
+              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task04.c",
+              "RelativeToolTip": "task04.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-29T12:07:37.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task08.c",
+              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task08.c",
+              "RelativeDocumentMoniker": "task08.c",
+              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task08.c",
+              "RelativeToolTip": "task08.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-29T12:07:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task06.c",
+              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task06.c",
+              "RelativeDocumentMoniker": "task06.c",
+              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task06.c",
+              "RelativeToolTip": "task06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-29T12:07:34.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task02.c",
+              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task02.c",
+              "RelativeDocumentMoniker": "task02.c",
+              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task02.c",
+              "RelativeToolTip": "task02.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-29T12:07:10.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task01.c",
+              "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task01.c",
+              "RelativeDocumentMoniker": "task01.c",
+              "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\task01.c",
+              "RelativeToolTip": "task01.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-29T11:52:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "start.c",
               "DocumentMoniker": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\start.c",
               "RelativeDocumentMoniker": "start.c",
               "ToolTip": "C:\\Users\\krek\\Desktop\\ZabGU\\Programming\\oop_C_Prog\\start.c",
               "RelativeToolTip": "start.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-29T04:20:47.495Z",
               "EditorCaption": ""
