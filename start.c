@@ -6,7 +6,7 @@ int main() {
     int n = -1;
 
     while (n != 0) {
-        printf("\nInput task number <1 to 12>, or 0 to EXIT: ");
+        printf("\nInput task number <1 to 13>, or 0 to EXIT: ");
 
         if (scanf("%d", &n) != 1) {
             printf("Error: invalid input!\n");
@@ -31,6 +31,9 @@ int main() {
 		case 8: task08(); break;
 		case 9: task09(); break;
 		case 10: task10(); break;
+        case 11: task11(); break;
+        case 12: task12(); break;
+        case 13: task13(); break;
             printf("%d not task\n", n);
             break;
         default:
